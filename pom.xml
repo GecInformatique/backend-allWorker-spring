@@ -32,11 +32,11 @@
 		<java.version>17</java.version>
 	</properties>
 	<modules>
-		<module>project</module>
+        <module>project</module>
 		<module>account</module>
 		<module>parametrage</module>
-		<module>pricingAndPayment</module>
 		<module>communication</module>
+		<module>pricingAndPayement</module>
 	</modules>
 	<dependencies>
 		<dependency>
